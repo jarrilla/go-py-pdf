@@ -6,8 +6,7 @@ This is a demo of a microservice that converts a PDF file to text.
 Start the Python microservice:
 ```
 cd pdf2txt
-uv install
-uv run
+uv run main.py
 ```
 
 Then, in another terminal, run the Go client:
